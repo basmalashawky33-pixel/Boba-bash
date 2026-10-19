@@ -5,3 +5,8 @@ h1 {
             font-size: 45px;
             color: #2e7d32;
         }
+.image{
+            width:100%;
+            border-radius:8px; 
+            margin:20px 0;
+}
